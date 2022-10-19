@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import csv
 
 from requests_html import HTMLSession
