@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import unittest
 import requests.exceptions
 from requests_html import HTMLSession
